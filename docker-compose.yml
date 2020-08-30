@@ -2,6 +2,6 @@ version: '3'
 
 services:
   web:
-    image: vulnerables/web-dvwa
+    image: impakho/trihistory:latest
     ports:
       - "80:80"
